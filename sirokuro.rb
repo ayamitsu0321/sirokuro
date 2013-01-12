@@ -12,8 +12,8 @@ require 'tk'
 # 本体
 class Sirokuro
 	# 定数の宣言
-	CONSUMER_KEY = 'HOEkUDMKOs1LqQqmMbOCw'
-	CONSUMER_SECRET = 'FF5319lvjRqpK7yFzYbXzmMYFWvJ58bjI2mAxyWORY'
+	CONSUMER_KEY = '*****************'
+	CONSUMER_SECRET = '*************************'
 	# 変数の宣言
 	attr_accessor :consumer,
 								:request_token,
